@@ -1,2 +1,3 @@
-# hands_on_machine_learning
-This repository is a resume about the book hands on machine learning by Aurélien Géron
+<p align="center">
+  <img src="https://i.postimg.cc/KY0RrFpM/ml-er.png" alt="hands on machine learning">
+</p>
